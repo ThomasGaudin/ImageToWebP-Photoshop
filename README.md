@@ -1,23 +1,23 @@
-# ConvertJPGToWebP — Script Photoshop
+# ConvertJPGToWebP — Photoshop Script
 
-Script ExtendScript pour convertir automatiquement des images JPG en WebP depuis Photoshop.
+Script to convert JPG, PNG, and other image formats to WebP from Photoshop.
 
-## Utilisation
+## Usage
 
-1. **Prépare tes fichiers**
-   Mets tous les fichiers JPG que tu veux convertir dans un même dossier.
+1. **Prepare the files**
+   Put all the files into the same folder.
 
-2. **Crée un dossier de sortie**
-   Crée un dossier vide où les fichiers WebP convertis seront enregistrés (par exemple `output/` ou `WebP/`).
+2. **Creating an output folder**
+   Create an empty folder where the converted WebP files will be saved (e.g. `output/` or `WebP/`).
 
-3. **Lance le script dans Photoshop**
-   - Ouvre Photoshop
-   - Va dans **Fichier > Scripts > Parcourir…** (ou `File > Scripts > Browse…`)
-   - Sélectionne le fichier `ConvertJPGToWebP.jsx`
+3. **Run the script in Photoshop**
+   - Open Photoshop
+   - Go to **File > Scripts > Browse…**
+   - Select the `ConvertJPGToWebP.jsx` file
 
-4. **Sélectionne tes dossiers**
-   Le script te demandera de choisir :
-   - Le **dossier source** contenant tes JPG
-   - Le **dossier de destination** pour les fichiers WebP
+4. **Select your folders**
+   The script will ask to choose:
+   - The **source folder** containing the images
+   - The **destination folder** for the WebP files
 
-Les fichiers convertis apparaîtront automatiquement dans le dossier de destination.
+Converted files will automatically appear in the destination folder.
