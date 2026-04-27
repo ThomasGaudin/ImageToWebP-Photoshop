@@ -1,4 +1,4 @@
-# ConvertJPGToWebP — Photoshop Script
+# ConvertToWebP — Photoshop Script
 
 Script to convert JPG, PNG, and other image formats to WebP from Photoshop.
 
